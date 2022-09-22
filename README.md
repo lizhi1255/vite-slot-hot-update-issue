@@ -1,0 +1,1 @@
+# vite-slot-hot-update-issue
