@@ -1,0 +1,10 @@
+@import "./base.css";
+
+main {
+  /* font-size: 16px; */
+}
+
+:root {
+  --title-text-color: #00c0ff;
+  --content-text-color: #e0e0e0;
+}
